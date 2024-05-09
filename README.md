@@ -1,2 +1,0 @@
-# CodingPractice
-CodingPractice
